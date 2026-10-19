@@ -37,7 +37,7 @@ The development of this shopping platform involved the **use of several tools an
     - **Visual Studio Code (VS Code)**: Used as the **primary code editor for writing, organizing, and maintaining the project files**, including Next.js components, styling, and application logic.
     - **Opera GX**: Utilized as the **web browser for previewing, testing, and evaluating the functionality** of the website during development.
     - **GitHub**: Used to **store, manage, and share the project repository** while supporting version control and collaborative development workflows.
-    - **Netlify**: **Used as the deployment platform to host and publish** the REVOSHOP shopping platform online for public access.
+    - **Vercel**: **Used as the deployment platform to host and publish** the REVOSHOP shopping platform online for public access.
 
 2. **Technologies**
     - **Next.js**: Utilized as the **main React framework to build the shopping platform** with file-based routing, dynamic routing, reusable components, and optimized client-side navigation.
