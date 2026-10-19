@@ -20,7 +20,7 @@ export default function CartPage() {
     <main className="min-h-screen bg-zinc-800 text-white">
       <Navbar />
 
-      <section className="p-8">
+      <section className="mx-auto w-full max-w-[1280px] px-5 py-12 md:px-10">
         <h1 className="text-4xl font-bold mb-8 text-center">Your Cart</h1>
 
         <table className="w-full border border-zinc-600 table-fixed">

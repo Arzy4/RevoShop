@@ -47,7 +47,7 @@ export default function Navbar() {
   }
 
   return (
-    <nav className="flex flex-col md:flex-row justify-between items-center p-8 gap-5">
+    <nav className="flex flex-col md:flex-row justify-between items-center p-8 gap-5 mx-auto w-full max-w-[1280px]">
       <Image
         src="/revoShopLogo.png"
         alt="Logo"
