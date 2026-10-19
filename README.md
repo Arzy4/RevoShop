@@ -2,7 +2,7 @@
 
 --- 
 
-![View the Live Website](./revoshop/public/screenshot/landingPage.png)
+![View the Live Website](./revoshop/public/screenshot/revoshop.png)
 🔗 [View Live REVOSHOP SHOPPING PLATFORM](https://revoshop123.vercel.app)
 
 --- 
@@ -88,7 +88,7 @@ Once opened, users can navigate through the main sections of the website:
 
 ## PLATFORM'S SCREENSHOT
 ### HomePage
-![Homepage Screenshot](./revoshop/public/screenshot/landingPage.png)
+![Homepage Screenshot](./revoshop/public/screenshot/revoshop.png)
 
 ### Promotion Page
 ![Promotion Page Screenshot](./revoshop/public/screenshot/promotionPage.png)
